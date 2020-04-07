@@ -19,6 +19,15 @@ Installers for the following tools are included:
 | stego | Directory | [stegosaurus](https://github.com/AngelKitty/stegosaurus) | A steganography tool for embedding arbitrary payloads in Python bytecode (pyc or pyo) files. | <!--tool--><!--no-test-->
 | stego | Directory | [zsteg](https://github.com/zed-0xff/zsteg) | detect stegano-hidden data in PNG & BMP. | <!--tool--><!--no-test-->
 
+## Fork
+
+This repository contains a fork of the original
+[ctf-tools](https://github.com/zardus/ctf-tools). It was made a long time ago,
+and contains a lot of tools that do not reflect the current state of the art.
+
+This fork is based on The Flat Network Society's experience with modern CTF. It
+contains only tools that are used to solve challenges in 2020.
+
 ## Usage
 
 To use, do:
